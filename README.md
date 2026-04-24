@@ -127,6 +127,3 @@ pip install shap scikit-learn xgboost pandas numpy matplotlib seaborn plotly
 - [SHAP Documentation](https://shap.readthedocs.io/)
 - [EU AI Act — High-Risk AI Systems](https://artificialintelligenceact.eu/)
 
----
-
-*Portfolio project — João [Surname] | [LinkedIn] | [Email]*
