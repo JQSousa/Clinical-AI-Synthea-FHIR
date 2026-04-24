@@ -1,7 +1,7 @@
 # 🏥 Clinical AI with Synthea FHIR Data
 
 > **Medication Recommendation System + Explainable AI for Clinical Decisions**  
-> A senior-level portfolio project demonstrating Python, machine learning, and healthcare AI applied to FHIR-structured data.
+
 
 ---
 
@@ -104,7 +104,7 @@ pip install shap scikit-learn xgboost pandas numpy matplotlib seaborn plotly
 
 ---
 
-## 🔑 Senior-Level Signals
+## 🔑 Results
 
 - ✅ **FHIR-aware data structure** — mirrors real interoperability standards
 - ✅ **Multi-label** — not naive single-output; reflects clinical reality  
